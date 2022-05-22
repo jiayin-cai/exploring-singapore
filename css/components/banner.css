@@ -1,0 +1,19 @@
+.banner {
+  background-image: linear-gradient(155deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2)50%), url(../../images/jewel2.JPG);
+  color: white;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  font-size: 40px;
+}
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: 'Hi Melody', cursive;
+  margin-bottom: 60px;
+  opacity: 0.8;
+}

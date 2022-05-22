@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com);
+@import url(https://fonts.gstatic.com);
+@import url(https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Hi+Melody&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+  font-family: 'Hi Melody', cursive;
+  font-size: 20px;
+  color: darkorange;
+  margin: 0px;
+}
+
+h1,h2,h3 {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+}
+
+a:hover {
+  color: black;
+}
+
+img {
+  width:250px;
+}
+
